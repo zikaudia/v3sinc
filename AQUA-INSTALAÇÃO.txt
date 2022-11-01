@@ -1,0 +1,47 @@
+﻿💦 COMANDOS PARA ATIVAÇÃO DO BOT
+
+Basta Copiar e Colar.
+São Comandos Simples, Então Basta Apenas Prestar um Pouco de Atenção
+
+
+> pkg update && pkg upgrade
+
+> pkg install git -y
+
+> pkg install nodejs -y
+
+> pkg install ffmpeg -y
+
+> pkg install imagemagick -y
+
+> termux-setup-storage
+
+> cd /sdcard
+
+> cd AQUABOTV3
+
+> bash install.sh
+
+> npm install
+
+> pkg install yarn
+
+> npm update
+
+> yarn
+
+> sh start.sh
+
+
+> AGORA É SÓ ESCANEAR O QRCODE <
+
+Em Caso de Dúvidas, ou Erro, entre no Meu Grupo :)
+
+https://chat.whatsapp.com/HowVmkSOG3k9kbhdZW2TVj
+
+
+
+Segue No Insta :)
+
+@Licht.offc
+@Aquabot.wpp
